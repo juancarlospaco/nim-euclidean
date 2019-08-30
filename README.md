@@ -14,3 +14,4 @@ echo euclideanModulo(-3, 5)    # -3 mod 5
 
 - You can use `import euclideanDivision as eDiv` or similar for short name, etc.
 - You can use `import euclideanModulo as eMod` or similar for short name, etc.
+- Remember results will be different than standard library Divison and Modulo.
