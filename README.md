@@ -19,7 +19,7 @@ echo euclideanModulo(-3, 5)    # -3 mod 5
 - Remember results will be different than standard library `system` Divison and Modulo.
 - Remember results will be different than standard library `math` Divison and Modulo.
 - No dependencies. Uses `limits.h`.
-- See http://wikipedia.org/wiki/Modulo_operation
+- See http://wikipedia.org/wiki/Modulo_operation http://wikipedia.org/wiki/Euclidean_division
 
 
 # FAQ
