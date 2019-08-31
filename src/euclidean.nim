@@ -43,4 +43,4 @@ when isMainModule:
 
 # math.floorMod Versus euclidean.euclideanModulo:
 #         Euclideans Modulo       5 mod -3 =      2
-#         Nim Floor  Division     5 mod -3 =      -1
+#         Nim Floor  Modulo       5 mod -3 =      -1

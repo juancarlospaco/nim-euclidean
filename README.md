@@ -41,7 +41,7 @@ echo "\tNim Floor  Division\t5 / -3 = \t",    floorDiv(5, -3), "\n"
 
 echo "math.floorMod Versus euclidean.euclideanModulo:"
 echo "\tEuclideans Modulo\t5 mod -3 =\t",     euclideanModulo(5.cint, -3.cint)
-echo "\tNim Floor  Modulo\t5 mod -3 = \t",  floorMod(5, -3)
+echo "\tNim Floor  Modulo\t5 mod -3 = \t",    floorMod(5, -3)
 ```
 
 **Results**
