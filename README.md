@@ -2,6 +2,8 @@
 
 - [Euclidean Division and Euclidean Modulo](https://en.wikipedia.org/wiki/Euclidean_division) for [Nim.](https://nim-lang.org)
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Divmod.svg/461px-Divmod.svg.png "Euclidean Division and Euclidean Modulo for Nim")
+
 
 # Use
 
