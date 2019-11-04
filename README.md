@@ -4,6 +4,16 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Divmod.svg/461px-Divmod.svg.png "Euclidean Division and Euclidean Modulo for Nim (RED = Quotient, GREEN = Remainder)")
 
+![](https://img.shields.io/github/languages/top/juancarlospaco/nim-euclidean?style=for-the-badge)
+![](https://img.shields.io/github/languages/count/juancarlospaco/nim-euclidean?logoColor=green&style=for-the-badge)
+![](https://img.shields.io/github/stars/juancarlospaco/nim-euclidean?style=for-the-badge "Star nim-euclidean onGitHub!")
+![](https://img.shields.io/maintenance/yes/2019?style=for-the-badge "2019")
+![](https://img.shields.io/github/languages/code-size/juancarlospaco/nim-euclidean?style=for-the-badge)
+![](https://img.shields.io/github/issues-raw/juancarlospaco/nim-euclidean?style=for-the-badge "Bugs")
+![](https://img.shields.io/github/issues-pr-raw/juancarlospaco/nim-euclidean?style=for-the-badge "PRs")
+![](https://img.shields.io/github/commit-activity/y/juancarlospaco/nim-euclidean?style=for-the-badge)
+![](https://img.shields.io/github/last-commit/juancarlospaco/nim-euclidean?style=for-the-badge "Commits")
+
 
 # Use
 
@@ -67,3 +77,8 @@ math.floorMod Versus euclidean.euclideanModulo:
         Euclideans Modulo       5 mod -3 =      2
         Nim Floor  Modulo       5 mod -3 =      -1
 ```
+
+
+# Stars
+
+![Star nim-euclidean on GitHub](https://starchart.cc/juancarlospaco/nim-euclidean.svg "Star nim-euclidean on GitHub!")
